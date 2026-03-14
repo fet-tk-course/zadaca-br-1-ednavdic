@@ -11,6 +11,10 @@ GitHub username: ednavdic
 
 ---
 
+## Uvod
+
+Studentica sam 3. godine i softver mi je uvijek bio izazovan i pretežak za razumit te mi nije bilo zanimljivo. Prvi put sam jako uzbuđena i zainteresovana za učenje i rješavanje projekata.
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
