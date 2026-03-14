@@ -1,14 +1,19 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Edna Avdić
 
-GitHub username:
+GitHub username: ednavdic
 
 ---
+
+## Uvod
+
+Studentica sam 3. godine i softver mi je uvijek bio izazovan i pretežak za razumit te mi nije bilo zanimljivo. Prvi put sam jako uzbuđena i zainteresovana za učenje i rješavanje projekata.
 
 ## Opis zadatka
 
@@ -112,4 +117,8 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+<<<<<<< HEAD
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
+=======
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
+>>>>>>> conflict-test
